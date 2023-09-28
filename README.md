@@ -1,1 +1,3 @@
-# wordleunlimited
+# Wordle Unlimited
+
+This is a straight off copy of [Wordle Unlimited](https://www.wordleunlimited.com/), all credit goes to the creator(s) of that site. Just a few things edited to my liking...
